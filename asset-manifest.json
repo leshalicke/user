@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/leshalicke/user.git/static/css/main.cd5d95a0.css",
+    "main.js": "/leshalicke/user.git/static/js/main.8abd25ea.js",
+    "index.html": "/leshalicke/user.git/index.html",
+    "main.cd5d95a0.css.map": "/leshalicke/user.git/static/css/main.cd5d95a0.css.map",
+    "main.8abd25ea.js.map": "/leshalicke/user.git/static/js/main.8abd25ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.8abd25ea.js"
+  ]
+}
